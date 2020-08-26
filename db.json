@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "zain",
+      "email": "zainsan152@gmail.com",
+      "age": 22
+    },
+    {
+      "name": "zain2",
+      "email": "zainsan1522@gmail.com",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "name": "zain3",
+      "email": "zainsan1523@gmail.com",
+      "age": 24,
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
